@@ -29,3 +29,14 @@ img {
   .perspective-questions {
     font-style: italic;
   }
+  #myContainer {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    background: pink;
+  }
+  
+  #myAnimation {
+    width: 100px;
+    height: 100px;
+    position: absolute;
