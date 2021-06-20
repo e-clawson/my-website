@@ -3,6 +3,11 @@ body {
     background: #00b3e6;
     text-align: center;
   }
+img {
+    width: 150px;
+    height: 200px;
+    
+  }
   div {
     width: 700px;
     margin: auto;
@@ -16,7 +21,10 @@ body {
   }
   #main-header {
     color: darkblue;
-    font-size: 22px;
+    font-size: 36px;
+    text-decoration-line: underline;
+    font-style:italic;
+    font-weight: bold;
   }
   .perspective-questions {
     font-style: italic;
